@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=9ou608QQRq8
 
 
 ## Diagrama UML
+![image](https://github.com/cedricbatalha/Bootcamp_ComponenteIphone/assets/4136238/b0438d6f-ad38-4dcf-bd36-807e35755f9a)
 
 
 ## Proposta
